@@ -4,4 +4,3 @@
 # this is our code
 
 print("Hello, World!")
-print("I love git")
